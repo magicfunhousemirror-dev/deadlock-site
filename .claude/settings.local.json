@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/judejosejames/Documents/deadlock-site init)",
+      "Bash(git -C /Users/judejosejames/Documents/deadlock-site add .)",
+      "Bash(git -C /Users/judejosejames/Documents/deadlock-site commit -m \"Initial commit\")"
+    ]
+  }
+}

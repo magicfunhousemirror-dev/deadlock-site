@@ -1,0 +1,125 @@
+
+img{
+  width:100%;
+  border-radius: 10px;
+}
+.navbar{
+  list-style:none;
+  margin:0;
+  padding:0;
+  background-color:#828282;
+  border-radius:5px;
+  display:flex;
+  justify-content:center;
+}
+.navbar a{
+  display:block;
+  padding:5px 15px;
+  color:white;
+  text-decoration:none;
+  font-size: 25px;
+}
+.navbar a:hover{
+  background-color:#c2b99f;
+}
+
+
+video{
+    padding-top: 25px;
+}
+
+
+
+td{
+    vertical-align: top;
+    padding:25px;
+    border-radius: 10px;
+}
+.title{
+    font-size: 100px;
+    text-align: center;
+    color:white;
+    background-color: black;
+    
+}
+
+
+
+/*This section is for each individual pages style*/
+
+.form{
+    background-image: url(assets/doorman.png);
+    background-color: #f1cd48be;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.index{
+     background-image:url(assets/Deadlock.png) ;
+     background-color: #5e5e5e;
+     background-repeat: no-repeat;
+     background-size: 25%;
+     background-position: 50%;
+     background-position-y: 100px;
+    background-attachment:local;
+}
+.index td{
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 25px;
+    font-weight: 200;
+    background-color: #5e5e5eb7;
+
+    
+}
+
+
+
+.Billy{
+  font-size:25px;
+  padding:25px;
+  font-family:courier new;
+  color:black;
+  background:#828282;
+  background-image:url(assets/Billy-the-Goat-large.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+
+}
+
+.Geist{
+    font-size:25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    background: rgba(0, 128, 128, 0.468);
+    background-image:url(assets/LadyGeist.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.Rem{
+    font-size:25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    background: rgba(0, 28, 128, 0.578);
+    background-image:url(assets/Rem-background.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.Dynamo{
+    font-size:25px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: whitesmoke;
+    background: rgba(255, 174, 23, 0.427);
+    background-image:url(assets/Dynamo-background.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
